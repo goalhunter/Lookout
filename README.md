@@ -6,6 +6,20 @@ An AI-powered human detection and search system for emergency response and publi
 
 Look Out is designed to assist local government officials in rapidly identifying and locating individuals from video footage. The system processes surveillance videos to detect humans, creates a searchable database of detected individuals, and allows for searching by text descriptions or image uploads.
 
+## Project Demo
+
+### Screenshots
+
+![Look Out Demo Screenshot](./Screenshot.png)
+
+*Screenshot of the Look Out interface showing human detection results*
+
+### Video Demo
+
+A complete demonstration of the project is available in the demo video:
+
+[Watch the Demo Video](./demo.mp4)
+
 ## Team: Code Sentinels
 - Uday Kalyan Nuthalapati - Master's in Computer Science
 - Gnana Lekhana Agerisetti - Master's in Computer Science
