@@ -1,0 +1,31 @@
+# Deep Learning & Computer Vision
+ultralytics==8.0.20      # YOLOv8
+torch>=1.7.0
+torchvision>=0.8.1
+numpy>=1.18.5
+opencv-python>=4.1.2
+Pillow>=7.1.2
+
+# Fashion CLIP
+fashion-clip>=1.0.0
+transformers>=4.26.0
+
+# API Framework
+fastapi>=0.95.0
+uvicorn>=0.22.0
+python-multipart>=0.0.5
+
+# Data Processing & Visualization
+scikit-learn>=1.0.2
+matplotlib>=3.5.0
+
+# Vector Database
+qdrant-client>=1.1.1
+
+# Streamlit Frontend
+streamlit>=1.22.0
+requests>=2.28.0
+
+# Other Utilities
+python-dateutil>=2.8.2
+pydantic>=1.10.7
